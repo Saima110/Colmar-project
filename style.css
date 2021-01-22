@@ -1,0 +1,16 @@
+.text-color{
+  color: rgb(30, 39, 39);
+}
+
+.logo {
+  color:cadetblue;
+}
+.nav-text {
+  color: cadetblue;
+}
+.container {
+  width:auto;
+}
+.footer-left {
+  margin-left:100rem;
+}
